@@ -1,3 +1,6 @@
+// Ts syntax
+// let variableName: type = value 
+
 // string
 let username: string = 'Soumyodeep Das'
 
